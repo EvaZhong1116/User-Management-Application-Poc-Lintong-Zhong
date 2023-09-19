@@ -20,6 +20,7 @@ I implement put operation to modify the user information, the image shows I made
 <img width="1313" alt="5" src="https://github.com/EvaZhong1116/User-Management-Application-Poc-Lintong-Zhong/assets/83436556/2a33fed0-d287-4ff1-aa43-91df2babe1ea">
 
 <img width="904" alt="6" src="https://github.com/EvaZhong1116/User-Management-Application-Poc-Lintong-Zhong/assets/83436556/b441955e-9bc8-4f02-b7cb-cec8e27b925a">
+
 ## GET: get all user and get user by id
 
 I implement two type of get method, the first one is get all the user and the second one is get the user by id, the first image show the use id 1 information, the second image shows the all the user information.
