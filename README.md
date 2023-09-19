@@ -6,26 +6,25 @@ I implement a post operation using spring security, once a user registration in 
 
 <img width="741" alt="Screenshot 2023-09-18 at 5 14 53 PM" src="https://github.com/EvaZhong1116/User-Management-Application-Poc-Lintong-Zhong/assets/83436556/75f0cadc-ecb4-497b-951b-8b33dc29aae5">
 
-![Screenshot 2023-09-18 at 5.17.37 PM.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/97f63a6e-2eac-438d-b846-54b6699abe8d/89c14f33-9bd5-4538-8ac1-f2b099e72725/Screenshot_2023-09-18_at_5.17.37_PM.png)
+<img width="264" alt="2" src="https://github.com/EvaZhong1116/User-Management-Application-Poc-Lintong-Zhong/assets/83436556/5ee37247-b7a9-4e83-9fa1-30a337afb91d">
 
 The username Ava password: 123 successfully login to the page
-![Screenshot 2023-09-18 at 5.18.58 PM.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/97f63a6e-2eac-438d-b846-54b6699abe8d/96de6420-6e91-4df7-a162-8cde03e89ca9/Screenshot_2023-09-18_at_5.18.58_PM.png)
+<img width="829" alt="3" src="https://github.com/EvaZhong1116/User-Management-Application-Poc-Lintong-Zhong/assets/83436556/58f55fb9-6810-4b30-9af8-dbeca324dec0">
 
 and using get method shows that the Ava username is store in the db
-![Screenshot 2023-09-18 at 4.58.52 PM.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/97f63a6e-2eac-438d-b846-54b6699abe8d/e6a6fe7a-2c15-429c-97fd-5b774e57bef8/Screenshot_2023-09-18_at_4.58.52_PM.png)
+<img width="904" alt="4" src="https://github.com/EvaZhong1116/User-Management-Application-Poc-Lintong-Zhong/assets/83436556/34a7ab7a-9883-498f-85a7-c89c997ca449">
 
 ## PUT: 
 I implement put operation to modify the user information, the image shows I made some change the the user 1 Adam, I change username from Adam to adamchanged, the password from 123 to 123changed.
 
-![Screenshot 2023-09-18 at 4.22.38 PM.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/97f63a6e-2eac-438d-b846-54b6699abe8d/eb64ea7d-3632-4bbc-abb0-34c9ce324c89/Screenshot_2023-09-18_at_4.22.38_PM.png)
+<img width="1313" alt="5" src="https://github.com/EvaZhong1116/User-Management-Application-Poc-Lintong-Zhong/assets/83436556/2a33fed0-d287-4ff1-aa43-91df2babe1ea">
 
-![Screenshot 2023-09-18 at 4.58.52 PM.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/97f63a6e-2eac-438d-b846-54b6699abe8d/e6a6fe7a-2c15-429c-97fd-5b774e57bef8/Screenshot_2023-09-18_at_4.58.52_PM.png)
-
+<img width="904" alt="6" src="https://github.com/EvaZhong1116/User-Management-Application-Poc-Lintong-Zhong/assets/83436556/b441955e-9bc8-4f02-b7cb-cec8e27b925a">
 ## GET: get all user and get user by id
 
 I implement two type of get method, the first one is get all the user and the second one is get the user by id, the first image show the use id 1 information, the second image shows the all the user information.
 
-![Screenshot 2023-09-18 at 2.27.08 AM.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/97f63a6e-2eac-438d-b846-54b6699abe8d/abd0d499-5b84-4e6a-acb3-a33371396b33/Screenshot_2023-09-18_at_2.27.08_AM.png)
+<img width="1193" alt="7" src="https://github.com/EvaZhong1116/User-Management-Application-Poc-Lintong-Zhong/assets/83436556/bfa4c285-a2be-4234-b726-62e4a2fde2bd">
 
 ![Screenshot 2023-09-18 at 2.25.52 AM.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/97f63a6e-2eac-438d-b846-54b6699abe8d/c03359f5-14a6-44b9-9287-008b4ffa3e09/Screenshot_2023-09-18_at_2.25.52_AM.png)
 
