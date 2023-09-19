@@ -4,7 +4,7 @@
 
 I implement a post operation using spring security, once a user registration in the registration page their information including id, username, password, email will store in sql database, and then you can use login form to login in with your username and password to the main menu.
 
-![Screenshot 2023-09-18 at 5.14.53 PM.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/97f63a6e-2eac-438d-b846-54b6699abe8d/e51151b4-4caf-41b2-a7be-562bd430a99b/Screenshot_2023-09-18_at_5.14.53_PM.png)
+<img width="741" alt="Screenshot 2023-09-18 at 5 14 53 PM" src="https://github.com/EvaZhong1116/User-Management-Application-Poc-Lintong-Zhong/assets/83436556/75f0cadc-ecb4-497b-951b-8b33dc29aae5">
 
 ![Screenshot 2023-09-18 at 5.17.37 PM.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/97f63a6e-2eac-438d-b846-54b6699abe8d/89c14f33-9bd5-4538-8ac1-f2b099e72725/Screenshot_2023-09-18_at_5.17.37_PM.png)
 
