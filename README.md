@@ -26,22 +26,22 @@ I implement two type of get method, the first one is get all the user and the se
 
 <img width="1193" alt="7" src="https://github.com/EvaZhong1116/User-Management-Application-Poc-Lintong-Zhong/assets/83436556/bfa4c285-a2be-4234-b726-62e4a2fde2bd">
 
-![Screenshot 2023-09-18 at 2.25.52 AM.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/97f63a6e-2eac-438d-b846-54b6699abe8d/c03359f5-14a6-44b9-9287-008b4ffa3e09/Screenshot_2023-09-18_at_2.25.52_AM.png)
+<img width="960" alt="8" src="https://github.com/EvaZhong1116/User-Management-Application-Poc-Lintong-Zhong/assets/83436556/4820e48a-c307-47b1-a543-a9368e27e4ee">
 
 ## DELETE: delete a user by id
 
 I implement a delete by id operation, as the image shown below the delete the user id 4, and then I use getAll to get all the user, the user 4 is gone.
 
-![Screenshot 2023-09-18 at 2.27.53 AM.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/97f63a6e-2eac-438d-b846-54b6699abe8d/2da14ffa-7bd8-40ee-b092-3cca53591d71/Screenshot_2023-09-18_at_2.27.53_AM.png)
+<img width="1193" alt="9" src="https://github.com/EvaZhong1116/User-Management-Application-Poc-Lintong-Zhong/assets/83436556/fbb979dd-b59a-4132-9a26-56266c1c2883">
 
-![Screenshot 2023-09-18 at 5.21.37 PM.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/97f63a6e-2eac-438d-b846-54b6699abe8d/db3a7dcd-e77f-4ebc-b5e1-4c71dd237941/Screenshot_2023-09-18_at_5.21.37_PM.png)
+<img width="832" alt="10" src="https://github.com/EvaZhong1116/User-Management-Application-Poc-Lintong-Zhong/assets/83436556/061085d4-c9fd-4860-a4bf-c0b567d6ccc0">
 
 ## Security Implementation:
 
 I create a login page with spring security using OAuth2.0. the user can choose to login in with google. Once I enter my google credentials, I am successfully redirect to the welcome page.
 
-![Screenshot 2023-09-19 at 12.06.55 AM.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/97f63a6e-2eac-438d-b846-54b6699abe8d/ed6c8423-ff6b-4b70-97b8-f56caeb9ba7c/Screenshot_2023-09-19_at_12.06.55_AM.png)
+<img width="771" alt="11" src="https://github.com/EvaZhong1116/User-Management-Application-Poc-Lintong-Zhong/assets/83436556/3a4226c5-6716-4f47-82b5-76c137391c04">
 
-![Screenshot 2023-09-19 at 12.07.28 AM.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/97f63a6e-2eac-438d-b846-54b6699abe8d/d1ca51ba-53bf-4006-88ca-41bec9d1e9cc/Screenshot_2023-09-19_at_12.07.28_AM.png)
+<img width="619" alt="12" src="https://github.com/EvaZhong1116/User-Management-Application-Poc-Lintong-Zhong/assets/83436556/d1c63800-bab9-4aa4-923e-9d9a5deb9fb9">
 
-![Screenshot 2023-09-19 at 12.07.42 AM.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/97f63a6e-2eac-438d-b846-54b6699abe8d/6c0ce72f-e330-4f4b-b00e-f5c74192550e/Screenshot_2023-09-19_at_12.07.42_AM.png)
+<img width="661" alt="13" src="https://github.com/EvaZhong1116/User-Management-Application-Poc-Lintong-Zhong/assets/83436556/a75e1ba3-2ccc-46b1-b8b6-417badfd7c7c">
